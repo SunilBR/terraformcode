@@ -1,0 +1,11 @@
+resource_group_name = "testrg"
+virtual_network_name = "testvnet"
+resource_group_location = "eastus"
+azurerm_windows_virtual_machine = "testvm"
+vm_size = "Standard_DS1_v2"
+azurerm_network_interface = "test-nic"
+admin_username = "testadmin"
+admin_password = "password1234"
+location = "eastus"
+azurerm_subnet = "testnet01"
+
